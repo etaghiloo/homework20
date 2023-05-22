@@ -2,7 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom/client';
 import reportWebVitals from './reportWebVitals';
 import SiteRouter from './components/siteRouter';
-import styleGlobal from './styleGlobal.css'
+import styleGlobal from './styleGlobal.css';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
